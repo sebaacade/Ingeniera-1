@@ -1,0 +1,243 @@
+                                            Teoria Requerimientos
+
+	
+
+
+El Software son procedimeintos de computo, procesos, reglas, documentacion, etcetera que forman parte de las operaciones de un sistema de computacion(IEEE(instituto)).Este se caracteriza por ser un elemento logico, por desarrollarse y por no tener un tiempo de vida.
+
+El Software libre se refiere a cuatro libertades:	
+	1.libertad para ejecutar el programa en cualquier lugar, sin importar el proposito y para siempre
+	2.libertad de estudio y adaptacion(con obvio acceso a el codigo fuente)
+	3.libertad de redistribucion
+	4.libertad para la mejora del programa y publicacion de sus mejoras.
+
+Sus clasificaciones:
+
+	.De Sistemas	.De Aplicacion	.Cientifico y de Ingenieria	.Integrado
+	.De linea de productos	.Aplicaciones Web/Moviles	.De inteligencia artificial
+
+La disciplina de la ingenieria comprende todos los aspectos de la produccion de software desde la sus etapas iniciales incluyendo la evolucion de este.
+
+La institucion IEEE define a la ingenieria de software como el uso de metodos para el desarrollo, operacion y mantenimiento de software, y el estudio relacionado con este.
+
+En el desarrollo de software hay varias participantes:
+	
+	.Gerentes Ejecutivos(duenos)
+	.Gerentes de Proyecto(lider del equipo)
+	.Profesionales Especializados
+	.Clientes
+	.Usuarios Finales
+
+	*los gerentes de proyecto y profesionales especializados forman un equipo.
+
+
+
+
+
+
+
+Caracteristicas de un Ingeniero de Software:
+
+.El Ingeniero debe dominar los aspectos tecnicos, aprender habilidades para entender el problema, disenar las soluciones desarrollarlas, etcetera. Pero sobre todo los aspectos humanos son lo que hacen un Ingeniero efectivo.
+
+La Resposabilidad profesional y etica:
+	
+.La Ingenieria se desarrolla en un marco economico, social y legal, por esto mismo los IS deben utilizar sus habilidades sin destino propio y de manera de no deshonrar su trabajo y proposito.
+
+Codigos de Etica de los IS:
+	»Confidencialidad
+		◦ Respetar la confidencialidad de sus empleados y clientes
+	»Competencia
+		◦ No falsificar el nivel de competencia y aceptar responsabilidades fuera de su capacidad
+	»Derechos de la propiedad intelectual
+		◦ Conocer la leyes vigentes sobre las patentes y copyright
+	»Uso inapropiado de las computadoras
+		◦ No debe utilizar sus habilidades técnicas para utilizar de forma inapropiada otras computadoras
+
+
+
+
+Tecnicas de Comunicacion
+
+.La comunicacion es de los mas importante para la satisfaccion de las necesidades del cliente, siendo Tambien esta el motivo de los principales errores.
+
+
+
+Requerimientos:
+	
+.El requerimiento o requisito es una carecteristica del sistema o algo que el sistema puede realizar con el objetivo de satisfacerse asi mismo.
+
+Las fuentes del requerimiento son:
+	
+	.Documentacion
+	.StakeHolders
+	.Especificaciones de Sistemas Libres
+
+*Los StakeHolders son cualquier persona o grupo de persona que se vean afectados directamente o indirectamente por el sistema.
+
+
+
+
+Puntos de Vista
+
+.Existen tres de estos:
+	
+	.Interactuadores : representan  las personas u otros sistemas que interactuan con el sistema.
+	.Indirecto: representan los StakesHolders que no utilizan el sistema ellos mismo pero que influyen en los requequimientos de alguna manera.
+	.Dominio: representan las caracteristicas y restricciones del dominio que influyen en los requerimientos del sistemas
+
+
+Elicitacion De Requerimientos
+
+.Esta es la adquisicion de los conocimientos mas relevantes para la produccion de un modelo de los requerimientos de un dominio de problema
+
+El objetivo de esta es conocer el dominio del problema para poder entender las necesidades del cliente y de los usuarios , conocer el sistema actual , y identificar todas las necesidades de los clientes y usarios
+
+
+
+Tecnicas de Elicitacion:
+
+.Metodos Discretos:
+	1.Muestreo de la documentacion,formularios y datos existentes
+	2.Investigacion y visitas al lugar
+	3.Observacion del ambiente de trabajo
+
+.Metodos Interactivos:
+	1.Cuestionarios
+	2.Entrevistas
+	3.Planeacion conjunta de Requisitos(JRP O JAD)
+	4.Lluvia de ideas
+
+
+					CUESTIONARIOS
+
+
+.Es un documento que permite recopilar informacion y opiniones de un grupo particular.
+
+.Caracteristicas:
+	
+	.Recolectar hechos de un gran número de personas.
+	.Detectar un sentimiento generalizado.
+	.Detectar problemas entre usuarios.
+	.Cuantificar respuestas.
+
+.Ventajas: 
+
+	.Respuesta rápida
+	.Económicos
+	.Anónimos
+	.Estructurados de fácil análisis
+
+.Desventajas:
+
+	.Número bajo de respuestas
+	.No responde a todas las preguntas
+	.Preguntas rígidas
+	.No se puede realizar el análisis corporal
+	.No se pueden aclarar respuestas
+	.incompletas
+	.Difíciles de preparar
+
+Preguntas
+	
+	Abiertas: son las que dejan abiertas todas las posibles opciones de respuesta
+
+	Cerradas: limitan o cierran las opciones de respuesta disponibles
+
+.Se deben usar cuando el grupo esta disperso geograficamente, se involucra a muchas personas, queremos obtener opiniones generales o queremos identificar problemas generales.
+
+
+
+					Entrevistas
+
+.Tecnica de exploracion en la cual se recolecta informacion de las personas cara a cara.
+
+.La conversacion tiene un proposito especifico.
+
+.Permite conocer las opiniones y sentimientos mas en  profundidad del entrevistado.
+
+.Ventajas:
+	
+	.El entrevistado se siente incluido en el proyecto
+	.Es posible obtener una retroalimentación del encuestado
+	.Es posible adaptar las preguntas de acuerdo al entrevistado
+	.Información no verbal observando las acciones y expresiones del entrevistado
+
+.Desventaja:
+	
+	.Costosas
+	.Tiempo y recursos humanos
+	.Las entrevistas dependen en gran parte de las habilidades del entrevistador
+	.No aplicable a distancia
+
+
+Tipo De Informacion que se puede Obtener:
+	
+	.Opiniones
+	.Objetivos
+	.Procedimientos informales
+	.Sentimientos
+
+
+
+.Tipos de Entrevistas:
+	
+	Estructuradas(Cerradas): tiene preguntas ya pre hechas para realizar, se dirige sobre un requisito puntual y no permite adquirir un amplio conocimiento del dominio. 
+
+	No Estructuradas(Abiertas): se lleva un tema amplio, no se prepara nada es espontaneo y se inicia con preguntas que no dependen del contexto.
+
+
+.Tipos de Preguntas:
+	
+	1.Abiertas: esta permite al entrevistado responder de manera abierta.
+
+	2.Cerradas: Conduce a respuestas directas, cortas o especificas.
+
+	3.Sondeo: Permite obtener un detalle mas puntual sobre un tema.
+
+
+
+.Ventajas de Las Preguntas Abiertas:
+	
+	.Revelan nueva línea de preguntas
+	.Hacen más interesante la entrevista
+	.Permiten espontaneidad
+
+.Desventajas de Las Preguntas Abiertas:
+
+	.Pueden dar muchos detalles irrelevantes
+	.Se puede perder el control de la entrevista
+	.Parece que el entrevistador no tiene los objetivos claros
+
+.Ventajas de Las Preguntas Cerradas:	
+
+	.Ahorran tiempo
+	.Se mantiene más fácil el control de la entrevista
+	.Se consiguen datos relevantes
+
+.Desventajas de Las Preguntas Cerradas:
+
+	.Pueden aburrir al encuestado
+	.No se obtienen detalles
+
+
+
+.Organizacion de una Entrevista:
+	
+	.Estas pueden ser tres
+		
+		Piramidal(Inductivo): empieza con preguntas cerradas y termina en preguntas abiertas.
+
+		Embudo(Deductivo): comienza en preguntas abiertas y culmina en preguntas cerradas.
+
+		Diamente(Comb. de las anteriores): empieza por p. cerradas, sigue con abiertas y culmina con cerradas.
+
+.Preparacion Previa(Kendall):
+ 
+ 	.se debe leer los antecedentes
+	.poner atencion a su lenguaje
+	.buscar un vocabulario en comun
+	.estableces los obejtivos
+	.seleccionar los entrevistados
+	.se debe planificar la entreviste(fecha, hora, lugar y duracion)
+	.seleccionar el tipo de preguntas y su estructura
